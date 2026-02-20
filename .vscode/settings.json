@@ -1,0 +1,13 @@
+{
+  // Use spaces instead of tabs
+  "editor.insertSpaces": true,
+
+  // Number of spaces per indentation level
+  "editor.tabSize": 4,
+
+  // Apply only to Python files
+  "[python]": {
+    "editor.insertSpaces": true,
+    "editor.tabSize": 4
+  }
+}
